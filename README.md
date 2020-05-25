@@ -290,6 +290,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Google Cloud Datastore](https://cloud.google.com/datastore/) - Hosted NoSQL database service by Google
 * [ParanoidGuy Databunker](https://github.com/paranoidguy/databunker) - Personally identifiable information (PII) storage service built to comply with GDPR and CCPA
 * [Lambda Store](https://lambda.store/) - Pay-as-you-go Redis-compatible data storage.
+* [Cloud Local Storage](https://cls.tools/) - Serverless storage exposed via localStorage-like API. No signup needed.
 
 ### Others
 * [Azure Function Library](http://functionlibrary.azurewebsites.net) - An open source set of common use cases for Azure Functions that are ready to deploy!
